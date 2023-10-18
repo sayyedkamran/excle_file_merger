@@ -1,0 +1,11 @@
+[package]
+name = "excle_file_merger"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+umya-spreadsheet = "1.0.2"
+chrono = "0.4.31"
+
